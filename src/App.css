@@ -1,0 +1,41 @@
+.port-main{
+  display: flex;
+}
+.port-main img{
+  width: 365px;
+  margin-top: 20px;
+  margin-left: 71px;
+  height: 198px;
+}
+
+.port-main p{
+  margin-top: 40px;
+  width: 378px;
+  height: 200px;
+  margin-left: 92px; 
+ }
+ .div-portal{
+  margin-left: 164px;
+ }
+ #tab{
+   height: 600px;
+ }
+
+ #tab-str{
+height:'400px';
+width:'1200px';
+margin:'auto'
+ }
+ .img-det{
+  border-radius: 50%;
+  width:100px;
+   height:100px;
+ }
+ .flex-main{
+  display:flex;
+  padding-top:5px
+ }
+ #fana{
+  width: 18rem;
+  margin:auto;
+ } 
